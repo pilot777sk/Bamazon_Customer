@@ -57,7 +57,7 @@ var promptCustomer = function(res){
             }
           }
         }).then(function(answer){
-          if((res[id].stockquantity - answer.quant) > 0){
+          if((res[id].stockquantity - answer.quant) >= 0){
             console.log(res[id].stockquantity);
             console.log(answer.quant);
 
