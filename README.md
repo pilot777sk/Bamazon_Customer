@@ -13,6 +13,10 @@ To run this application, you will need to have the MySQL database set up on your
 
 ![screen shot 2018-02-14 at 6 58 54 am](https://user-images.githubusercontent.com/31009277/36203220-c79f5422-1154-11e8-975e-f1deb6983be7.png)
 
+![screen shot 2018-02-14 at 7 19 07 am](https://user-images.githubusercontent.com/31009277/36204034-b0319e64-1157-11e8-8180-6fca0a92fd50.png)
+![screen shot 2018-02-14 at 7 19 38 am](https://user-images.githubusercontent.com/31009277/36204035-b047115e-1157-11e8-9fc5-0f0f5ca0ffee.png)
+![screen shot 2018-02-14 at 7 20 04 am](https://user-images.githubusercontent.com/31009277/36204036-b05cf4a6-1157-11e8-855b-ff22ab2e42eb.png)
+
 ### Customer Interface
 
 To view the current inventory the Customer interface will give you access to the store items: item IDs, descriptions, department and price. The customer can then purchase items by entering the item ID and the desired quantity. If the items quantity is available, the customers order will be filled, and will display the total purchase price and update the store database. If the desired quantity is not available, the user will be prompted to modify the order.
